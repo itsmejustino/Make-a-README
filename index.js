@@ -70,13 +70,13 @@ init = () => {
         `
 # ${JSON.parse(JSON.stringify(input.title))}<br>
 ## Table of Contents <br>
-[Description](##Description)<br>
-[License](##License)<br>
-[Install-Instructions](##Install-Instructions)<br>
-[Usage-Info](##Usage-Info)<br>
-[Contribute](##Contribute)<br>
-[Questions](##Questions)<br>
-[Tests](##Tests)<br>
+[Description](#description)<br>
+[License](#license)<br>
+[Install-Instructions](#install-Instructions)<br>
+[Usage-Info](#usage-Info)<br>
+[Contribute](#contribute)<br>
+[Questions](#questions)<br>
+[Tests](#tests)<br>
 
 ## Description 
   ${JSON.parse(JSON.stringify(input.description))}
