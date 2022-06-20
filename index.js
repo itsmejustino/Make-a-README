@@ -65,7 +65,7 @@ init = () => {
     .then((input) =>
       fs.writeFile(
         //write a README file every time index.js is run 
-        "README.md",
+        "README-generated.md",
 //string interpolate each input element into README.md txt and format.
         `
 # ${JSON.parse(JSON.stringify(input.title))}<br>
