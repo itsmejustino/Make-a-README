@@ -12,7 +12,7 @@
 ## Description 
   This application will generate a README using node.js and inquirer npm package to recieve user input.
 ## License
-  [![BSD License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause/?target=_blank)
+  [![BSD License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause/target=_blank)
 ## Install-Instructions 
   Installation required to use this application are npm packages. Run 'npm init-y' and 'npm i' for the inquirer package. 
 ## Usage-Info
