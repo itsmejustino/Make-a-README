@@ -5,7 +5,7 @@ const fs = require("fs");
 
 //initialize the application. 
 init = () => {
-  //iniquirer.prompt will prompt user in console when given type, name, and message in an object. Message will be displayed message.
+  //inquirer.prompt will prompt user in console when given type, name, and message in an object. Message will be displayed message.
   inquirer
     .prompt([
       {
