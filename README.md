@@ -17,7 +17,7 @@
   Installation required to use this application are npm packages. Run 'npm init-y' and 'npm i' for the inquirer package. 
 ## Usage-Info
   Answering the questions prompted from the console will fill in each heading within the README to create a profressional README page. <br>
-  You can view a demo of this live application by following this link https://drive.google.com/file/d/19vSL0KNn9eTKoCesfUIFMKsWRVn9b2jd/view
+  You can view a demo of this live application by following this link: https://drive.google.com/file/d/19vSL0KNn9eTKoCesfUIFMKsWRVn9b2jd/view
 ## Contribute
   If you would like to contribute to the project please send me an email and make a pull request for the feature you would like to edit or add.
 
