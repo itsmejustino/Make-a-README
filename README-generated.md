@@ -1,5 +1,5 @@
 
-# README Generator Example<br>
+# Generate README-example<br>
 ## Table of Contents <br>
 [Description](#description)<br>
 [License](#license)<br>
@@ -10,15 +10,15 @@
 [Tests](#tests)<br>
 
 ## Description 
-  This is a demo of the README generator. 
+  This application can generate a readme by answering prompts in the terminal.
 ## License
   [![BSD License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 ## Install-Instructions 
-  install packages using npm for example 'npm i'
+  Install npm packages. required npm inquirer and fs
 ## Usage-Info
-  Answer questions within the console after running the app by initializing with 'node index.js'. User input will be added to sections
+  After installing packages run the application by typing 'node index.js' in the terminal 
 ## Contribute
-  If you would like to contribute to the project please send a pull request.
+  If you would like to contribute please send a Pull Request and create a new branch
 
 ## Questions 
 If you are interested in contacting me or contributing to this project, please contact me via email and create a pull request to this repo.
@@ -27,4 +27,4 @@ https://github.com/itsmejustino
 ### Email me at: 
   justindortiz@me.com 
 ## Tests 
-  No Testing information at this time
+  No Testing info at this time
